@@ -6,6 +6,12 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>The one and only</h1>
+    <h1>The one and only</h1><script>
+      let firstName = prompt("What is your name?");
+      if (firstName === "Pascalia");
+      {
+        alert("Welcome" + "" + firstName);
+      }
+    
 </body>
 </html>
